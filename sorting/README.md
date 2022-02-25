@@ -11,4 +11,4 @@ iterasi dan menempatkan elemen itu di awal daftar yang unsorted(tidak disortir).
 Insertion Sort atau penyisipan dengan memmbandingkan 2 nilai awal atau index awal, nilai dari bagian yang tidak
 disortir diambil dan ditempatkan pada posisi yang benar di bagian yang diurutkan.
 <br><br>
-### [challenge](https://github.com/FajarLegiantoA/ASD-Assignment/tree/main/sorting/challenge)
+### [latihan/challenge](https://github.com/FajarLegiantoA/ASD-Assignment/tree/main/sorting/challenge)
